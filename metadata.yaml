@@ -1,0 +1,38 @@
+_repo: A-Short-History-of-English-Printing-1476-1898_20393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plomer, Henry Robert
+    alias: Plomer, H. R. (Henry Robert)
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '9272'
+    url: http://www.gutenberg.org/2009/agents/9272
+  editor:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, Alfred William
+    - Pollard, A. W. (Alfred William)
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+description: ''
+gutenberg_issued: '2007-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- England -- History'
+- !lcsh 'England -- Imprints'
+- !lcc 'Z'
+title: A Short History of English Printing, 1476-1898
+url: http://www.gutenberg.org/ebooks/20393
